@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TeemuIljin
 - 👀 I’m interested in learning everything related to software develpoment 
-- 🌱 I’m currently learning cybersecurity!
-- 💞️ I’m looking to collaborate with seniors and soak up all their knowledge
-- 📫 How to reach me email me: teemu.iljin@gmail.com
+- 🌱 I’m currently learning Computer science in JYU!
+- 💞️ I’m looking to collaborate with everyone and learn a lot
+- 📫 How to reach me: email me: teemu.iljin@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love football and dogs
+- ⚡ Fun fact: I love football and dogs!
